@@ -1,6 +1,5 @@
 this is write two.txt file. i write here some words.
 i add some new words...
-
 ami branching sompokre kischu janlam
-
 feature 10 is updated
+solving a problem in line 5.
