@@ -1,6 +1,4 @@
 this is write two.txt file. i write here some words.
 i add some new words...
 
-
-
-ami ku te pori. i am learning web dev.
+ami branching sompokre kischu janlam
