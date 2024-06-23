@@ -1,2 +1,4 @@
 this is write file.
-i am bhola nath bala
+i am bhola nath bala.
+
+i add some words
