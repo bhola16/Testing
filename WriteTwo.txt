@@ -1,0 +1,1 @@
+this is write two.txt file. i write here some words.
