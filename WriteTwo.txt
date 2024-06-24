@@ -2,5 +2,6 @@ this is write two.txt file. i write here some words.
 i add some new words...
 
 
+i add some conflict text
 
 ami ku te pori. i am learning web dev.
