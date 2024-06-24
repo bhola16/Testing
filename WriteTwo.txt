@@ -1,7 +1,11 @@
 this is write two.txt file. i write here some words.
 i add some new words...
+solve bug2
+feature 10 is updated
+
+solve a problem of conflict
 
 
-i add some conflict text
 
 ami ku te pori. i am learning web dev.
+
