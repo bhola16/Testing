@@ -4,3 +4,4 @@ fix issue no 2
 i add some words.
 
 ami aro kichu add korlam. ami ku te pori . 
+ami aro kichu liklam in test-conflict
