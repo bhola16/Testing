@@ -6,6 +6,6 @@ feature 10 is updated
 solve a problem of conflict
 
 
-
+i add some conflict text in feature branch
 ami ku te pori. i am learning web dev.
 
