@@ -2,9 +2,6 @@ this is write two.txt file. i write here some words.
 i add some new words...
 solve bug2
 feature 10 is updated
-solving a problem in line 5.
 
-add some text for test conflict....
-
-add some text in main branch.................
+solve a problem of conflict
 
